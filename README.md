@@ -1,4 +1,4 @@
-# Unity Support - Generic Types
+# Unity UI Games
 This package contains features to create UI mini-games (e.g. cards) that fit into a canvas.
 
 # Install
