@@ -1,0 +1,16 @@
+{
+    "name": "AlephVault.Unity.UIGames.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:da1986a9445c78f79a061506dc004c4a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

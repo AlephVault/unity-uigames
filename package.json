@@ -1,0 +1,15 @@
+{
+  "name": "com.alephvault.unity.uigames",
+  "version": "0.0.1",
+  "displayName": "Aleph Vault - Unity - UI Games",
+  "description": "Features to create UI mini-games (e.g. cards) that fit into a canvas.",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.alephvault.unity.support": "0.0.1"
+  },
+  "author": {
+    "name": "Aleph Vault",
+    "email": "info@alephvault.com",
+    "url": "http://www.alephvault.com"
+  }
+}
